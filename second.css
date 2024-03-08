@@ -1,0 +1,230 @@
+
+
+body
+{
+  background: #c31432;  /* fallback for old browsers */
+      background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: none;
+  background-color: white;
+  position:absolute;
+  margin-top: -10px;
+ margin-left: 130px;
+ width: 979px;
+ height: 105px;
+ opacity: 70%;
+
+}
+
+li {
+  float: left;
+
+  font-size: 18px;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 7px 10px;
+  text-decoration: none;
+}
+
+
+
+
+
+.ab
+{
+  border-style:none;
+  margin-left:142px;
+  margin-right:150px;
+  border-width: 3px;
+  background: floralwhite;
+  opacity: 85%;
+}
+
+.ba
+{
+  border-style:dashed;
+  margin-left:140px;
+  margin-right:160px;
+  border-width: 3px;
+}
+
+/*.p11
+{
+  position: fixed;
+  margin-top: 30px;
+  margin-left: -110px;
+  height: 282px;
+}
+.p111
+{
+   position: absolute;
+  margin-top: 0px;
+  margin-bottom: 23px;
+  height: 282px;
+}*/
+
+.p11 {
+  position: fixed;
+  margin-top: -10px;
+  margin-left: -7px;
+  height: 290px;
+}
+
+.p111 {
+  position: fixed;
+  margin-top: 280px; /* Adjust this value to position .p111 below .p11 */
+  height: 282px;
+  margin-left: -7px;
+}
+
+.p22
+{
+  position: fixed;
+  margin-left: 1108px;
+  margin-top: -10px;
+  height: 565px;
+}
+
+.pop
+{
+  margin-left: 200px;
+  border-radius: 20px;
+
+
+}
+
+.damn
+{
+  margin-top: 23px;
+  text-align:center;
+  border-style:none;
+  margin-left:130px;
+  width: 966px;
+  margin-right:145px;
+  background-color:skyblue;
+  padding:5px;
+}
+.animehm
+{
+  height: 300px;
+  width: 400px;
+  border-style: solid;
+  border-width: 5px;
+  margin-left: 130px;
+  
+}
+.animehn
+{
+  height: 300px;
+  width: 400px;
+  border-style: solid;
+  border-width: 5px;
+
+}
+.animeho
+{
+  height: 300px;
+  width: 129px;
+  border-style: solid;
+  border-width: 5px;
+
+}
+.animehp
+{
+  height: 95px;
+  width: 955px;
+  border-style: solid;
+  border-width: 5px;
+  margin-left: 130px;
+
+}
+
+.bottom
+{
+  background-color: black;
+  border: none;
+  height: 180px;
+  margin-bottom: -15px;
+  position: relative;
+  margin-left:132px;
+  width: 975px;
+  opacity: 80%;
+  color: white;
+
+
+}
+
+.r{
+   float: right;
+   margin-top: 0px;
+}
+
+
+}
+
+.this
+{
+  margin-top: 8px;
+
+
+}
+
+
+.search-icon {
+  font-size: 24px; /* Adjust the font size as needed */
+}
+
+h2
+{
+  background-color: whitesmoke;
+  color: black;
+  margin-left: 400px;
+  margin-right:400px;
+  padding: 5px;
+  border-radius: 20px;
+  border: solid black;
+}
+
+.bitch
+{
+  color: white;
+  margin-left: 330px;
+  margin-right: 50px;
+  margin-top: -120px;
+  border:solid white;
+  text-align: center;
+
+}
+
+.regular
+{
+  border-style: solid;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 0px;
+  padding: 5px;
+  background-color: mintcream;
+}
+
+table
+{
+  border:solid black;
+  border-radius: 10px;
+  background-color: whitesmoke;
+
+}
+
+td,text-decoration
+{
+    text-align: justify;
+    padding: 10px;
+}
